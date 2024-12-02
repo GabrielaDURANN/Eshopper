@@ -1,4 +1,10 @@
-sitio WEB de punto de venta 
-creado por: Gabriela Duran fecha:28 de octubre del 2024
-proyevto final de submodulo
-1o de programacion vespertino 
+# Eshopper
+
+Sitio WEB de Punto de Venta de Ropa
+
+Creado por: Jose Alejandro Cisneros
+Fecha: 28 de Octubre 2024
+
+Proyecto Final de Submodulo
+
+3o de programacion Vesp

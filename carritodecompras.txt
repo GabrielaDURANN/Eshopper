@@ -1,0 +1,3 @@
+ Blusa,100
+ Blusa,100
+ Playera Azul,250
